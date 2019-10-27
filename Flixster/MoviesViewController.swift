@@ -12,8 +12,6 @@ import AlamofireImage
 class MoviesViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
     
-    
-    
     @IBOutlet weak var tableView: UITableView!
     
 
